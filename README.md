@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pmantouvalos or Panagiotis Mantouvalos.
+- 👋 Hi, I’m Panagiotis Mantouvalos.
 - 👀 I’m interested in Coding,Maths,Physics and.....Chess.
 - 🌱 I’m currently learning Java but i know C too.
 - 📫 You can reach me via my LinkedIn profile (Panos Mantouvalos) or via email (pmantouvalos@tuc.gr)
