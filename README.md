@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Panagiotis Mantouvalos.
 - 👀 I’m interested in Coding,Maths,Physics and.....Chess.
 - 🌱 I’m currently learning Java but i know C too.
-- 📫 You can reach me via my LinkedIn profile (Panos Mantouvalos) or via email (pmantouvalos@tuc.gr)
+- 📫 You can reach me via my LinkedIn profile (https://www.linkedin.com/in/panos-mantouvalos/) or via email (pmantouvalos@tuc.gr)
 
 
 <!---
