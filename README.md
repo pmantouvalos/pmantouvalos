@@ -6,8 +6,6 @@ I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobil
 
 📍 Chania, Greece · 📫 [pmantouvalos@tuc.gr](mailto:pmantouvalos@tuc.gr) · 💼 [LinkedIn](https://www.linkedin.com/in/panos-mantouvalos/)
 
-<p align="center"><a href="https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack"><img src="https://raw.githubusercontent.com/pmantouvalos/SenseLab-bunker-autonomy-stack/main/docs/media/demo.gif" alt="Bunker Mini autonomy stack in simulation: lane following and rock avoidance" width="720"></a></p>
-<p align="center"><sub>ROS 2 autonomy stack for the AgileX Bunker Mini 2.0, running in simulation (<a href="https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack/blob/main/docs/media/demo.mp4">full video</a>)</sub></p>
 
 ## Currently
 
@@ -18,7 +16,7 @@ I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobil
 
 | Project | Description | Stack |
 |---|---|---|
-| [SenseLab Bunker Autonomy Stack](https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack) ([▶ demo](https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack/blob/main/docs/media/demo.mp4)) | Modular ROS 2 autonomy stack for a tracked UGV in GNSS-denied, subterranean-style environments. | ROS 2, C++, Python, Gazebo |
+| [SenseLab Bunker Autonomy Stack](https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack) | Modular ROS 2 autonomy stack for a tracked UGV in GNSS-denied, subterranean-style environments. | ROS 2, C++, Python, Gazebo |
 | Bosch Future Mobility Challenge 2026 | Global finalist (7th of 163 teams). Mechatronics: sensor integration (IMU, ToF, stereo camera), 3D-printed mounts, decision-making, PID and Stanley lane-keeping controllers. | Python, Raspberry Pi 5, Fusion 360 |
 | Autonomous Navigation & Decision-Making | Weighted A\*, LRTA\*, MCTS and DQN-informed UCT for path planning and control in non-stationary `ns-gym` environments. | Python, PyTorch |
 | Custom Embedded Operating System | TinyOS-inspired OS with memory management, process scheduling and hardware–software interfacing. | C |
