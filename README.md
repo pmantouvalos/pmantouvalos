@@ -6,6 +6,9 @@ I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobil
 
 📍 Chania, Greece · 📫 [pmantouvalos@tuc.gr](mailto:pmantouvalos@tuc.gr) · 💼 [LinkedIn](https://www.linkedin.com/in/panos-mantouvalos/)
 
+<p align="center"><a href="https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack"><img src="https://raw.githubusercontent.com/pmantouvalos/SenseLab-bunker-autonomy-stack/main/docs/media/demo.gif" alt="Bunker Mini autonomy stack in simulation: lane following and rock avoidance" width="720"></a></p>
+<p align="center"><sub>ROS 2 autonomy stack for the AgileX Bunker Mini 2.0, running in simulation (<a href="https://github.com/pmantouvalos/SenseLab-bunker-autonomy-stack/blob/main/docs/media/demo.mp4">full video</a>)</sub></p>
+
 ## Currently
 
 - Developing a ROS 2 autonomy stack and SLAM algorithms in C++/Python for an AgileX Bunker Mini 2.0 tracked UGV operating in GNSS-denied environments (Horizon Europe project).
