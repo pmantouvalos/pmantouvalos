@@ -4,7 +4,7 @@ Integrated M.Eng. student in Electrical & Computer Engineering at the **Technica
 
 I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobile robots, sensor integration, and the mechatronic design that goes with it.
 
-📍 Athens, Greece · 📫 [pmantouvalos@tuc.gr](mailto:pmantouvalos@tuc.gr) · 💼 [LinkedIn](https://www.linkedin.com/in/panos-mantouvalos/)
+📍 Chania, Greece · 📫 [pmantouvalos@tuc.gr](mailto:pmantouvalos@tuc.gr) · 💼 [LinkedIn](https://www.linkedin.com/in/panos-mantouvalos/)
 
 ## Currently
 
