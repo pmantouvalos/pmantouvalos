@@ -28,7 +28,7 @@ I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobil
 **Sensors & hardware:** LiDAR, IMU, Time-of-Flight, stereo camera, Raspberry Pi, Arduino, embedded systems
 **Design & fabrication:** Fusion 360 (CAD), 3D printing
 
-## Awards
+## Awards & Volunteering
 
 - 🏆 Global Finalist, Bosch Future Mobility Challenge 2026 (7th of 163 teams)
 - 🤖 SenseLab Representative & Exhibitor, 2nd Automation & Robotics Expo, Athens (2026)
