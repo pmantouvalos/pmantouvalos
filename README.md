@@ -2,15 +2,15 @@
 
 Integrated M.Eng. student in Electrical & Computer Engineering at the **Technical University of Crete**, and Undergraduate Research Assistant at the **SenseLab Space Informatics** research laboratory.
 
-I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobile robots, sensor integration, and the mechatronic design that goes with it.
+I work on robotics, perception and autonomy: ROS 2 software for mobile robots, sensor integration, and the mechatronic design that goes with it.
 
 📍 Chania, Greece · 📫 [pmantouvalos@tuc.gr](mailto:pmantouvalos@tuc.gr) · 💼 [LinkedIn](https://www.linkedin.com/in/panos-mantouvalos/)
 
 
 ## Currently
 
-- Developing a ROS 2 autonomy stack and SLAM algorithms in C++/Python for an AgileX Bunker Mini 2.0 tracked UGV operating in GNSS-denied environments (Horizon Europe project).
-- Benchmarking SLAM architectures in DARPA SubT-inspired Gazebo environments.
+- Developing a ROS 2 autonomy stack for an AgileX Bunker Mini 2.0 tracked UGV, targeting GNSS-denied environments (Horizon Europe project). It currently runs in Gazebo simulation.
+- Next: SLAM integration and benchmarking in DARPA SubT-inspired worlds, then deployment on the physical robot.
 
 ## Featured projects
 
@@ -25,7 +25,7 @@ I work on robotics, perception and autonomy: ROS 2 navigation and SLAM for mobil
 ## Skills
 
 **Languages:** C, C++, Python, Java, MATLAB, VHDL
-**Robotics & software:** ROS 2 (autonomy, SLAM), OpenCV, MediaPipe, Gazebo, PyTorch, Linux, Git
+**Robotics & software:** ROS 2 (autonomy), OpenCV, MediaPipe, Gazebo, PyTorch, Linux, Git
 **Sensors & hardware:** LiDAR, IMU, Time-of-Flight, stereo camera, Raspberry Pi, Arduino, embedded systems
 **Design & fabrication:** Fusion 360 (CAD), 3D printing
 
